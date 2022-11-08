@@ -1,0 +1,15 @@
+{
+  "raceTitle": "Ballot Measures - Statewide Results",
+  "Reporting": "0.0% (0 of 25,603) precincts reporting",
+  "ReportingTime": "November 6, 2022, 1:45 p.m.",
+  "ballot-measures": [
+    {
+      "Name": "Constitutional Right to Reproductive Freedom",
+      "Number": "01",
+      "yesVotes": "75",
+      "yesPercent": "75.0",
+      "noVotes": "25",
+      "noPercent": "25.0"
+    }
+  ]
+}
